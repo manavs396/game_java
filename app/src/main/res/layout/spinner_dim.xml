@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/spinnerText"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_centerHorizontal="true"
+    android:fontFamily="@font/abel"
+    android:gravity="center"
+    android:paddingLeft="10sp"
+    android:paddingTop="5sp"
+    android:paddingRight="10sp"
+    android:paddingBottom="5sp"
+    android:popupBackground="@null"
+    android:textColor="@android:color/black"
+    android:textSize="@dimen/fontSize_spinner" />

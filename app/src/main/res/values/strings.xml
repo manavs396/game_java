@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">A3</string>
+    <string name="mainmenu">mainMenu</string>
+    <string name="developer1">Manav Sharma (301368441)</string>
+    <string name="developer2">Payal Payal(301368022)</string>
+    <string name="treasure_hunt">TREASURE HUNT</string>
+    <string name="main_activity">MainActivity</string>
+    <string name="main_menu">MainMenu</string>
+    <string name="game_options">GameOptions</string>
+    <string name="game">Game</string>
+    <string name="help">Help</string>
+    <string name="title_activity_abc">abc</string>
+
+    <string name="BlockName">OPTIONS</string>
+    <string name="BoardSizes">BoardIndex</string>
+    <string name="CountCoins">selectedCoins</string>
+    <string name="Gameplay">timePlayed</string>
+    <string name="Highscores">highestscores</string>
+    <string name="sharedgame">game</string>
+
+    <string name="gameActivity_CoinsFound">Found: 0 of 0 Coins</string>
+    <string name="gameActivity_PrefixCoin">Found:\u0020</string>
+    <string name="gameActivity_MiddleCoin">\u0020of\u0020</string>
+    <string name="gameActivity_SuffixCoin">\u0020Coins</string>
+    <string name="gameActivity_Scans_Used">Scans Used:\u0020</string>
+    <string name="gameActivity_Time_GamePlay">Times Played:\u0020</string>
+    <string name="gameActivity_high_Score">HighScore:\u0020</string>
+    <string name="dialogBox_message">Congratulations\nYou found all the Coins</string>
+    <string name="congrats_ok">\u0020OK\u0020</string>
+    <string name="textGrid">X</string>
+    <string name="game_maximumscore">100</string>
+    <string name="set_options">SetOptions</string>
+
+    <string name="gameoptions">Game Options</string>
+    <string name="select_board_type">Selected Board Type:</string>
+    <string name="helping">Help</string>
+    <string name="designed_by_manav_sharma_amp_payal_payal"><![CDATA[Designed by : Manav Sharma & Payal payal]]></string>
+    <string name="discriptions">Treasure hunt is a game with the target of finding all the hidden treasures under the treasure boxes. Some treasure boxes are empty and some have hidden treasure inside. Each click with empty boxes shows the number of boxes with treasure in the respective row and collumn by scanning them to give player a hint for the treasure places.</string>
+    <string name="citations">Citations</string>
+    <string name="textview">TextView</string>
+    <string name="save">SAVE</string>
+    <string name="revert">REVERT</string>
+    <string name="select_number_of_coins">Selected Number Of Coins:</string>
+    <string name="select_board">Select Board</string>
+    <string name="radiobutton">RadioButton</string>
+    <string name="select_total_coins">Select Total coins</string>
+    <string name="radiobutton3">RadioButton2</string>
+
+    <string name="grid1">4 x 6</string>
+    <string name="grid2">5 x 10</string>
+    <string name="grid3">6 x 15</string>
+    <string name="num1">6</string>
+    <string name="num2">10</string>
+    <string name="num3">15</string>
+    <string name="num4">20</string>
+    <string name="play_game">Play Game</string>
+    <string name="options">Options</string>
+    <string name="cita">Closed Treasure Box Image, Background Image, Coin Image</string>
+
+
+</resources>

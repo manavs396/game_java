@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="fonts" translatable="false">
+        <item>@font/abel</item>
+        <item>@font/aladin</item>
+        <item>@font/bangers</item>
+        <item>@font/bilbo_swash_caps</item>
+        <item>@font/concert_one</item>
+    </array>
+</resources>

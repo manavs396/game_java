@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.a3">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Treasure Hunt"
+        android:roundIcon="@drawable/coins"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="ExtraText">
+        <activity
+            android:name=".UI.MainActivity"
+            android:label="@string/main_activity"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".UI.MainMenu"
+            android:label="@string/main_menu"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme"
+            tools:ignore="Instantiatable" />
+        <activity
+            android:name=".UI.OptionsMenu"
+            android:label="@string/set_options"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme"
+            tools:ignore="Instantiatable" />
+        <activity
+            android:name=".UI.Game"
+            android:label="@string/game"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme"
+            tools:ignore="Instantiatable" />
+        <activity
+            android:name=".UI.Help"
+            android:label="@string/help"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme"
+            tools:ignore="Instantiatable" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/fonts" />
+    </application>
+
+</manifest>

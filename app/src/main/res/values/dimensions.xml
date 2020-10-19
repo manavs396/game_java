@@ -1,0 +1,39 @@
+<resources>
+
+    <dimen name="main_Size_primary">80sp</dimen>
+    <dimen name="main_Size_secondary">35sp</dimen>
+
+    <dimen name="mainMenu_Size_primary">85sp</dimen>
+    <dimen name="mainMenu_Size_secondary">35sp</dimen>
+
+    <dimen name="game_Size_primary">24sp</dimen>
+    <dimen name="game_Size_secondary">30sp</dimen>
+
+    <dimen name="Options_Size_primary">80sp</dimen>
+    <dimen name="Options_Size_secondary">30sp</dimen>
+    <dimen name="Options_Size_tertiary">40sp</dimen>
+    <dimen name="Options_Size_spinner">25sp</dimen>
+
+    <string-array name="game_Options_Heights">
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="game_Options_Widths">
+        <item>6</item>
+        <item>10</item>
+        <item>15</item>
+    </string-array>
+    <string-array name="game_Options_Sizes">
+        <item>4 x 6</item>
+        <item>5 x 10</item>
+        <item>6 x 15</item>
+    </string-array>
+    <string-array name="game_Options_countCoins">
+        <item>6</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+    </string-array>
+
+</resources>
